@@ -15,7 +15,7 @@
     "redux": "^3.7.2",
     "redux-promise": "^0.5.3"
   },
-  "homepage": "https://github.com/haeke/react-practice/tree/master/weather-example",
+  "homepage": "https://haeke.github.io/weather-example",
   "devDependencies": {
     "react-scripts": "1.0.17"
   },
